@@ -12,7 +12,8 @@
                 let fossils = Number(parseFloat(prompt('How many fossils do you want?')));
                 reactHandler().stateNode.setState({ fossils: fossils });
 
-                alert('Fossils added!');
+                alert('Fossils added!');          
+})();
 
 function footer() {
     let element = document.createElement('div');
@@ -40,5 +41,7 @@ function footer() {
         });
     });
 };
+
+footer();
 
 footer();
