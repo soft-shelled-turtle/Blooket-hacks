@@ -18,7 +18,7 @@ Object.values(document.querySelector('#app > div > div'))[1].children[1]['_owner
 	blook5
 ];
 
-alert("Set custom blooks!");
+alert("Added custom blooks. Have a nice day.");
 
 // I recommend this hack to users who know how to get custom blook IDs
 // Format:
