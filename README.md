@@ -1,4 +1,4 @@
 # Blooket-hacks
 Please do NOT distribute my code as yours.
-Some hacks for Blooket and enjoy.
+These are hacks only for Blooket.
 NOT held accontable for any consequences or bans.
