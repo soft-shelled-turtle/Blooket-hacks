@@ -14,7 +14,7 @@
             } else {
                 reactHandler().stateNode.enemies = [];
 
-                alert('Enemies cleared!');
+                alert('The cat ate them all! :)');
             };
 })();
 
