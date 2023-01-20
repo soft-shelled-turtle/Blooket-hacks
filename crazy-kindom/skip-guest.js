@@ -14,7 +14,7 @@
             } else {
                 reactHandler().stateNode.nextGuest();
 
-                alert('Guest skipped!');
+                alert('We banshed this guest for right now!');
             };
 })();
 
