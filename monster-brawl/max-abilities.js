@@ -14,4 +14,4 @@ function reactEventHandler() {
 Object.keys(reactEventHandler().state.abilities).map(a => reactEventHandler().state.abilities[a] = 9);
 reactEventHandler().state.game.scene.children.list.filter(a => a.texture?.key?.startsWith('darkEnergy')).map(a => a.scale = 5);
 
-alert("Jack Maxxed out all your abilities.");
+alert("Maxxed out all your abilities. :)");
