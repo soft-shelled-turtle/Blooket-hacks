@@ -14,7 +14,7 @@
             } else {
                 reactHandler().stateNode.nextGuest();
 
-                alert('We banshed this guest for right now!');
+                alert('We banished this guest for right now!');
             };
 })();
 
