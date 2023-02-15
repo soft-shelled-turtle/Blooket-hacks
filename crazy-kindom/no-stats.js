@@ -14,7 +14,7 @@
             } else {
                 reactHandler().stateNode.setState({ materials: 0, people: 0, happiness: 0, gold: 0 });
         
-                alert('It rained max stats. Have fun!');
+                alert('We took your stats away LOL!');
             };
 })();
 
