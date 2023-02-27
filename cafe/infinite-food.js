@@ -12,10 +12,10 @@
             if (document.location.pathname != "/cafe") {
                 alert("You must be in a cafe game!");
             } else {
-                reactHandler().stateNode.state.foods.forEach(e => e.stock = 99999);
+                reactHandler().stateNode.state.foods.forEach(e => e.stock = 999999999999);
                 reactHandler().stateNode.forceUpdate();
 
-                alert('Added infinite food level!');
+                alert('Added infinite food.');
             }
 })();
 
