@@ -12,7 +12,7 @@
             if (window.location.pathname != '/kingdom') {
                 alert('You must be in a crazy kingdom game!');
             } else {
-                reactHandler().stateNode.setState({ materials: -999, people: -999, happiness: -999, gold: -999 });
+                reactHandler().stateNode.setState({ materials: 0, people: 0, happiness: 0, gold: 0 });
         
                 alert('We took your stats away LOL!');
             };
